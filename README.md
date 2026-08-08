@@ -22,5 +22,6 @@ Welcome to my progress tracker! I am building these 5 core certification project
 - Responsive Web Design & Media Queries
 
 ---
-
+## Daily updates !!
+* Today I started with "Attributes" .
 *Feel free to explore the code and connect with me on [LinkedIn](www.linkedin.com/in/rishabh-nirmal-769107419)!*
