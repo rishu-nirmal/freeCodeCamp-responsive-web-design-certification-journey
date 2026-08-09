@@ -25,5 +25,6 @@ Welcome to my progress tracker! I am building these 5 core certification project
 ## Daily updates !!
 * Today I started with "Attributes" .
 * Today I started with "Responsive Web Design".
+* Today I worked on CSS variables.
 <br>
 *Feel free to explore the code and connect with me on [LinkedIn](www.linkedin.com/in/rishabh-nirmal-769107419)!*
