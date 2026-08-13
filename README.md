@@ -10,8 +10,8 @@ Welcome to my progress tracker! I am building these 5 core certification project
 
 - [x] **Project 1:** Tribute Page — *Completed*
 - [x] **Project 2:** Survey Form — *Completed*
-- [ ] **Project 3:** Technical Documentation Page — *In Progress*
-- [ ] **Project 4:** Product Landing Page — *Pending*
+- [x] **Project 3:** Technical Documentation Page — *Completed*
+- [ ] **Project 4:** Product Landing Page — *In progress*
 - [ ] **Project 5:** Personal Portfolio Webpage — *Pending*
 
 ---
